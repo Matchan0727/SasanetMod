@@ -1,0 +1,12 @@
+item.kaki.name=kaki
+item.cooked_kaki.name=Cooked Kaki
+item.kaki_sword.name=Kaki Sword
+item.kaki_pickaxe.name=Kaki Pickaxe
+item.kaki_shovel.name=Kaki Shovel
+item.kaki_axe.name=Kaki Axe
+item.kaki_hoe.name=Kaki Hoe
+
+tile.kaki_block.name=Kaki Block
+tile.cooked_kaki_block.name=Cooked Kaki Block
+
+itemGroup.SasanetMod=SasanetMod

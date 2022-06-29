@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "sasanetmod",
+        "name": "SasanetMod",
+        "description": "",
+        "version": "1.0-SNAPSHOT",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": [],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]

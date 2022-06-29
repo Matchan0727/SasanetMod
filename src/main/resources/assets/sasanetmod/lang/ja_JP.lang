@@ -1,0 +1,12 @@
+item.kaki.name=柿
+item.cooked_kaki.name=干し柿
+item.kaki_sword.name=柿の剣
+item.kaki_pickaxe.name=柿のツルハシ
+item.kaki_shovel.name=柿のシャベル
+item.kaki_axe.name=柿の斧
+item.kaki_hoe.name=柿のクワ
+
+tile.kaki_block.name=柿ブロック
+tile.cooked_kaki_block.name=干し柿ブロック
+
+itemGroup.SasanetMod=笹ネットMod

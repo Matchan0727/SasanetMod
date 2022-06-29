@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sasanetmod:kaki_block",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "sasanetmod:kaki",
+    "count": 9
+  }
+}
